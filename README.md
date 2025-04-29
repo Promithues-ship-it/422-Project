@@ -7,7 +7,7 @@ We are performing 2 types of regression analysis
 1.
 2.
 
-and implemented a Neural network with the given dataset "Copy of heart_disease_uci.csv" 
+and implement a Neural network with the given dataset "Copy of heart_disease_uci.csv" 
 
 We are initially using the libraries: 
 
